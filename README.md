@@ -35,7 +35,9 @@ The E-Commerce Dashboard is an interactive business analytics project developed 
 - Dashboard Screenshots
 
 ## Dashboard Preview
-(Add screenshots of your dashboard here)
+
+![Dashboard](E-commerce-home.png)
+![Dashboard](E-commerce-shipment.png)
 
 ## Conclusion
 This project demonstrates practical knowledge of Power BI, business analytics, and data visualization techniques by transforming raw e-commerce data into meaningful insights.
